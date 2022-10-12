@@ -4,4 +4,6 @@
 
 
 
-Then if you get to add bookmarklet: ![Screenshot 2022-10-12 11 48 56 AM](https://user-images.githubusercontent.com/115572157/195403558-a35faee3-f220-4ad3-a013-47ae7339f3df.png)                                                     Click the more button
+
+Then if you get to add bookmarklet:  
+![Screenshot 2022-10-12 11 48 56 AM](https://user-images.githubusercontent.com/115572157/195403558-a35faee3-f220-4ad3-a013-47ae7339f3df.png)                                                     Click the more button
