@@ -41,7 +41,7 @@ Put the name as ingot and the url as the script
 
 
 
-once you get it go to a random site, not the google browser or this website then use the bookmarklet
+once you get it go to a random site, not the google browser or this website then use the bookmarklet then click on rederect
 
 
 
@@ -54,9 +54,26 @@ once you get it go to a random site, not the google browser or this website then
 
 
 
-then![Screenshot 2022-10-12 11 51 59 AM](https://user-images.githubusercontent.com/115572157/195406234-70b6a13a-517c-40d9-8813-02dd37e0232d.png)
- click on rederect,
+once you get to this page click the bookmarklet again
 
 
 
 
+
+
+![Screenshot 2022-10-12 11 51 59 AM](https://user-images.githubusercontent.com/115572157/195406234-70b6a13a-517c-40d9-8813-02dd37e0232d.png)
+ 
+ 
+
+
+
+
+then your done! turn off and on what your school thing uses :)
+
+
+
+
+
+
+
+![Screenshot 2022-10-12 11 52 13 AM](https://user-images.githubusercontent.com/115572157/195406678-484ff8bd-8b9d-4340-97cb-f6465e534ff7.png)
